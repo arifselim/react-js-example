@@ -19,13 +19,13 @@ const Contact = () => {
                     <li className="mb-4 text-gray-300 text-md w-max" title="LinkedIn">
                         <a href="" className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
                             <FaLinkedinIn />
-                            <span className="text-sm font-initial">user/John-Doe</span>
+                            <span className="text-sm font-initial">user/arifselim</span>
                         </a>
                     </li>
                     <li className="mb-4 text-gray-300 text-md w-max" title="Codepen">
                         <a href="" className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
                             <FaCodepen />
-                            <span className="text-sm font-initial">/johndoe</span>
+                            <span className="text-sm font-initial">/arifselim</span>
                         </a>
                     </li>
                 </ul>
@@ -33,19 +33,19 @@ const Contact = () => {
                     <li className="mb-4 text-gray-300 text-md w-max" title="GitHub">
                         <a href="" className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
                             <FaGithub />
-                            <span className="text-sm font-initial">/johndoe</span>
+                            <span className="text-sm font-initial">/arifselim</span>
                         </a>
                     </li>
                     <li className="mb-4 text-gray-300 text-md w-max" title="Twitter">
                         <a href="" className="flex gap-2 justify-start items-center w-max ease-in-out duration-150 hover:text-teal-500">
                             <FaTwitter />
-                            <span className="text-sm font-initial">/johndoe</span>
+                            <span className="text-sm font-initial">/arifselim</span>
                         </a>
                     </li>
                 </ul>
                 <div className="mt-10 sm:mt-0">
-                    <h2 className="text-2xl text-teal-500 font-bold mb-2 sm:text-3xl">Start project?</h2>
-                    <h3 className="text-md text-gray-400 sm:text-xl">Hello@johndoe.com</h3>
+                    <h2 className="text-2xl text-teal-500 font-bold mb-2 sm:text-3xl">Want to directly contact?</h2>
+                    <h3 className="text-md text-gray-400 sm:text-xl">me@arifselim.com</h3>
                 </div>
             </div>
         </div>
