@@ -19,7 +19,7 @@ const Navbar = () => {
         <header className={`py-3 px-2 flex justify-between items-center flex-wrap lg:py-7 ${styles.header} ${menuOpen ? `${styles.open}` : ""}`}>
             <div className="z-50">
                 <h2 className="text-2xl text-white font-bold">
-                    <a href="" title="John Doe">John Doe</a>
+                    <a href="" title="John Doe">Arif Selim Kayımoğlu</a>
                 </h2>
             </div>
             <nav>
