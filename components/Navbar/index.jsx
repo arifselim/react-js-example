@@ -14,7 +14,11 @@ const Navbar = () => {
             menuOpen = false;
         }
     }
-
+/*<li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Projects">
+<a href="#projects" className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400" onClick={() => closeMenu()}>
+Projects
+</a>
+</li>*/
     return (
         <header className={`py-3 px-2 flex justify-between items-center flex-wrap lg:py-7 ${styles.header} ${menuOpen ? `${styles.open}` : ""}`}>
             <div className="z-50">
@@ -30,11 +34,7 @@ const Navbar = () => {
                             Experiences
                         </a>
                     </li>
-                    <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Projects">
-                        <a href="#projects" className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400" onClick={() => closeMenu()}>
-                            Projects
-                        </a>
-                    </li>
+                    
                     <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Contact">
                         <a href="#contact" className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400" onClick={() => closeMenu()}>
                             Contact

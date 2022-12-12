@@ -12,13 +12,10 @@ const Hero = () => {
           <span>Hello there</span><SiHey /><span>I am</span>
         </h2>
         <h1 className="text-6xl font-bold text-white sm:text-7xl">
-          John Doe
+          Arif Selim
         </h1>
         <p className="text-md text-gray-400 leading-7 my-4 sm:text-lg sm:leading-8">
-          Cuber and Self-Taught Front-end Software Developer, I enjoy building responsive 
-          web apps & designs using HTML5, CSS3, JavaScript, Next.js, React.js, Firebase, 
-          Restful APIs.., I have been working on the web for around 3 years building 
-          freelance/learning projects.
+          DevOps Engineer, I have CI/CD process, Container Tools, Docker, Linux/Windows virtual machines, networking and Amazon Web Services cloud experience.
         </p>
         <div className="my-7 flex justify-start items-center gap-4 flex-wrap">
           <button className="bg-teal-500 py-2 px-4 font-bold text-white border-2 border-teal-500 rounded-md ease-in-out duration-150 hover:text-white hover:bg-transparent hover:border-white" title="View Resume">

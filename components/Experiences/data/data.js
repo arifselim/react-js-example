@@ -1,45 +1,24 @@
 const data = [
     {
         id: 1,
-        year: 2021,
-        job_title: "Back-End Enginner",
-        company: "Nike",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        year: "May 2022 - Present",
+        job_title: "DevOps Enginner",
+        company: "BilgeAdam Technologies",
+        description: "I am working as a DevOps Engineer in FowApps team at BilgeAdam Technologies."
     },
     {
         id: 2,
-        year: 2020,
-        job_title: "Software Enginner",
-        company: "Google Clouds",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        year: "October 2021 - May 2022",
+        job_title: "Part-time DevOps Engineer",
+        company: "BilgeAdam Technologies",
+        description: "I was working as a part-time DevOps Engineer in FowApps team at BilgeAdam Technologies."
     },
     {
         id: 3,
-        year: 2019,
-        job_title: "Full-Stack Developer",
-        company: "AWS",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-        id: 4,
-        year: 2018,
-        job_title: "Front-End Developer",
-        company: "Netflix",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-        id: 5,
-        year: 2017,
-        job_title: "Software Developer",
-        company: "Vercel",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-        id: 6,
-        year: 2016,
-        job_title: "Front-End Enginner",
-        company: "Facebook",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        year: "July 2021 - September 2021",
+        job_title: "Intern",
+        company: "BilgeAdam Technologies",
+        description: "I did my internship for University at BilgeAdam Technologies as a DevOps Engineer Candidate. I have learned amazing experiences at Amazon Web Services. Managing VPCs, Virtual Machines, Containers and CI/CD process"
     }
 ];
 
